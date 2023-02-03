@@ -23,7 +23,7 @@
             <p>
               <a href="#!" class="text-white">Lorem ipsum</a>
             </p>
-            <p>
+          
               <a href="#!" class="text-white">Lorem ipsum</a>
             </p>
             <p>
